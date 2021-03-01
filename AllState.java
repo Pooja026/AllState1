@@ -4,7 +4,7 @@ class Allstate
 	{
 	  for(int i=0;i<=10;i++)
 	  {
-	    System.out.print("Wel-Come to AllState"+ i);
+	    System.out.println("Wel-Come to AllState" + i);
 	    
 	  }
 	}
